@@ -1,0 +1,23 @@
+{
+    "AS_Form_6a4c760784924b928fa12c83507d9786": {
+        "id": "AS_Form_6a4c760784924b928fa12c83507d9786",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "479bb62f173f49f4af04ea6879cbb8b7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7df0d033b00a43f5b60863fab24d3420",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.populateHotelList ();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

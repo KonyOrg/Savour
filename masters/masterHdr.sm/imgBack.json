@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5f109df3415479fa165136362858215",
+    "_src_": "back.png",
+    "_width_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mdc285639f2c4dd299015cc707ce4112",
+        "mc055435cff64df5b9cd15c89be94959",
+        "m7dcb3346f7b4ab4b598370bd4a43dee"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHdr",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgBack",
+    "ide_onTouchEnd": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "fcb41b0ca78847ce996f50c14ecd6fc7",
+    "name": "kony.ui.Image2",
+    "parent": "flexHdr",
+    "pf": "masterHdr",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

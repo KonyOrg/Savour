@@ -1,0 +1,143 @@
+{
+    "HEAD": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+    "w070301c508343e3a32982f79f07e0d9": {
+        "extension": "png",
+        "kuid": "w070301c508343e3a32982f79f07e0d9",
+        "name": "logo.png",
+        "parent": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "type": "F"
+    },
+    "w33724395775499d9c330b5b19bbf4d9": {
+        "children": [
+            "wd262554331f460b824672c7f9b10649"
+        ],
+        "kuid": "w33724395775499d9c330b5b19bbf4d9",
+        "name": "css",
+        "parent": "w33dc4a0bbae40b182ede53bbe198f8d",
+        "type": "D"
+    },
+    "w33dc4a0bbae40b182ede53bbe198f8d": {
+        "children": [
+            "w33724395775499d9c330b5b19bbf4d9",
+            "w5bd08c0be7d47ac9fee43d31d4c533a",
+            "w93213b06ca943c3add8b6b4f33643a3",
+            "wabcbfde07454a9bbbd266132e588804"
+        ],
+        "kuid": "w33dc4a0bbae40b182ede53bbe198f8d",
+        "name": "www",
+        "parent": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+        "type": "D"
+    },
+    "w535334e8a0b45ef8c21de5fc6a25d38": {
+        "extension": "png",
+        "kuid": "w535334e8a0b45ef8c21de5fc6a25d38",
+        "name": "facebook.png",
+        "parent": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "type": "F"
+    },
+    "w5bd08c0be7d47ac9fee43d31d4c533a": {
+        "children": [
+            "w070301c508343e3a32982f79f07e0d9",
+            "wd4726b1300b476d8e16b3175c212f49",
+            "w535334e8a0b45ef8c21de5fc6a25d38",
+            "w6f0b7aa872d416bbdeb55b52ce7296c",
+            "wf5c56b964384a3abd7d92447968c6b1"
+        ],
+        "kuid": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "name": "img",
+        "parent": "w33dc4a0bbae40b182ede53bbe198f8d",
+        "type": "D"
+    },
+    "w5e63e4ef2bd449c92fdb4fd91d4510c": {
+        "children": [
+            "w69809471d7348338ec9e9d7e15b6a5e",
+            "wa8dd46fd0cd4766b0bbaf141b31acec",
+            "w33dc4a0bbae40b182ede53bbe198f8d",
+            "wf085406db404e55ba8a3af1cf4e6585"
+        ],
+        "kuid": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+        "name": "cordova",
+        "type": "C"
+    },
+    "w69809471d7348338ec9e9d7e15b6a5e": {
+        "extension": "xml",
+        "kuid": "w69809471d7348338ec9e9d7e15b6a5e",
+        "name": "config.xml",
+        "parent": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+        "type": "F"
+    },
+    "w6f0b7aa872d416bbdeb55b52ce7296c": {
+        "extension": "png",
+        "kuid": "w6f0b7aa872d416bbdeb55b52ce7296c",
+        "name": "twitter.png",
+        "parent": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "type": "F"
+    },
+    "w7996acdb2cf41d19b8baddd067cb4fd": {
+        "extension": "md",
+        "kuid": "w7996acdb2cf41d19b8baddd067cb4fd",
+        "name": "README.md",
+        "parent": "wa8dd46fd0cd4766b0bbaf141b31acec",
+        "type": "F"
+    },
+    "w914e52a691442c2b0279928700df959": {
+        "extension": "js",
+        "kuid": "w914e52a691442c2b0279928700df959",
+        "name": "index.js",
+        "parent": "wabcbfde07454a9bbbd266132e588804",
+        "type": "F"
+    },
+    "w93213b06ca943c3add8b6b4f33643a3": {
+        "extension": "html",
+        "kuid": "w93213b06ca943c3add8b6b4f33643a3",
+        "name": "index.html",
+        "parent": "w33dc4a0bbae40b182ede53bbe198f8d",
+        "type": "F"
+    },
+    "wa8dd46fd0cd4766b0bbaf141b31acec": {
+        "children": [
+            "w7996acdb2cf41d19b8baddd067cb4fd"
+        ],
+        "kuid": "wa8dd46fd0cd4766b0bbaf141b31acec",
+        "name": "hooks",
+        "parent": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+        "type": "D"
+    },
+    "wabcbfde07454a9bbbd266132e588804": {
+        "children": [
+            "w914e52a691442c2b0279928700df959"
+        ],
+        "kuid": "wabcbfde07454a9bbbd266132e588804",
+        "name": "js",
+        "parent": "w33dc4a0bbae40b182ede53bbe198f8d",
+        "type": "D"
+    },
+    "wd262554331f460b824672c7f9b10649": {
+        "extension": "css",
+        "kuid": "wd262554331f460b824672c7f9b10649",
+        "name": "index.css",
+        "parent": "w33724395775499d9c330b5b19bbf4d9",
+        "type": "F"
+    },
+    "wd4726b1300b476d8e16b3175c212f49": {
+        "extension": "",
+        "kuid": "wd4726b1300b476d8e16b3175c212f49",
+        "name": ".DS_Store",
+        "parent": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "type": "F"
+    },
+    "wf085406db404e55ba8a3af1cf4e6585": {
+        "extension": "",
+        "kuid": "wf085406db404e55ba8a3af1cf4e6585",
+        "name": ".DS_Store",
+        "parent": "w5e63e4ef2bd449c92fdb4fd91d4510c",
+        "type": "F"
+    },
+    "wf5c56b964384a3abd7d92447968c6b1": {
+        "extension": "png",
+        "kuid": "wf5c56b964384a3abd7d92447968c6b1",
+        "name": "whatsapp.png",
+        "parent": "w5bd08c0be7d47ac9fee43d31d4c533a",
+        "type": "F"
+    }
+}

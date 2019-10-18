@@ -1,0 +1,128 @@
+{
+    "HEAD": "d3418e0e0185489c9cf90d47ca53634c",
+    "a1b33ffb4dd74cc8aaf5189dcf5eebaf": {
+        "children": [],
+        "kuid": "a1b33ffb4dd74cc8aaf5189dcf5eebaf",
+        "name": "Desktop",
+        "parent": "e311ecb4a7c64d38a3b0dc99ebc58db0",
+        "type": "D"
+    },
+    "a7f060713ca64533bc73955dce91264d": {
+        "children": [
+            "i637aab9606740f1afbd783529cd87c4"
+        ],
+        "kuid": "a7f060713ca64533bc73955dce91264d",
+        "name": "Desktop",
+        "parent": "d304f833fb2d4998b4823e20d96a8074",
+        "type": "D"
+    },
+    "ab1798d0be404f739cc6dc4d4c3b0ce5": {
+        "children": [],
+        "kuid": "ab1798d0be404f739cc6dc4d4c3b0ce5",
+        "name": "Tablet",
+        "parent": "e311ecb4a7c64d38a3b0dc99ebc58db0",
+        "type": "D"
+    },
+    "b17aa18cbc1f464ca8c7de0d9a5d772b": {
+        "children": [
+            "bd8bf248fbc842e98820d94bf3b4a5b9"
+        ],
+        "kuid": "b17aa18cbc1f464ca8c7de0d9a5d772b",
+        "name": "Common",
+        "parent": "d304f833fb2d4998b4823e20d96a8074",
+        "type": "D"
+    },
+    "bc4d531c16584bf1af76e9362c7a1c9b": {
+        "children": [
+            "c85f5f04cd3140ed92cd7e6bae87d457"
+        ],
+        "kuid": "bc4d531c16584bf1af76e9362c7a1c9b",
+        "name": "Mobile",
+        "parent": "d304f833fb2d4998b4823e20d96a8074",
+        "type": "D"
+    },
+    "bd8bf248fbc842e98820d94bf3b4a5b9": {
+        "extension": "js",
+        "kuid": "bd8bf248fbc842e98820d94bf3b4a5b9",
+        "name": "customReporter.js",
+        "parent": "b17aa18cbc1f464ca8c7de0d9a5d772b",
+        "type": "F"
+    },
+    "c85f5f04cd3140ed92cd7e6bae87d457": {
+        "extension": "js",
+        "kuid": "c85f5f04cd3140ed92cd7e6bae87d457",
+        "name": "automationStartup.js",
+        "parent": "bc4d531c16584bf1af76e9362c7a1c9b",
+        "type": "F"
+    },
+    "d304f833fb2d4998b4823e20d96a8074": {
+        "children": [
+            "b17aa18cbc1f464ca8c7de0d9a5d772b",
+            "a7f060713ca64533bc73955dce91264d",
+            "bc4d531c16584bf1af76e9362c7a1c9b",
+            "i31212f32fd6413aad95c5ffe99389a1"
+        ],
+        "kuid": "d304f833fb2d4998b4823e20d96a8074",
+        "name": "Jasmine",
+        "parent": "d3418e0e0185489c9cf90d47ca53634c",
+        "type": "D"
+    },
+    "d3418e0e0185489c9cf90d47ca53634c": {
+        "children": [
+            "d304f833fb2d4998b4823e20d96a8074",
+            "e311ecb4a7c64d38a3b0dc99ebc58db0"
+        ],
+        "kuid": "d3418e0e0185489c9cf90d47ca53634c",
+        "name": "testresources",
+        "type": "D"
+    },
+    "db86668df08847279abf768c970c8dcf": {
+        "children": [],
+        "kuid": "db86668df08847279abf768c970c8dcf",
+        "name": "Common",
+        "parent": "e311ecb4a7c64d38a3b0dc99ebc58db0",
+        "type": "D"
+    },
+    "e311ecb4a7c64d38a3b0dc99ebc58db0": {
+        "children": [
+            "db86668df08847279abf768c970c8dcf",
+            "a1b33ffb4dd74cc8aaf5189dcf5eebaf",
+            "fa6d5fcbbf5e481f93e60a0b9c00f3f5",
+            "ab1798d0be404f739cc6dc4d4c3b0ce5"
+        ],
+        "kuid": "e311ecb4a7c64d38a3b0dc99ebc58db0",
+        "name": "TestNG",
+        "parent": "d3418e0e0185489c9cf90d47ca53634c",
+        "type": "D"
+    },
+    "fa6d5fcbbf5e481f93e60a0b9c00f3f5": {
+        "children": [],
+        "kuid": "fa6d5fcbbf5e481f93e60a0b9c00f3f5",
+        "name": "Mobile",
+        "parent": "e311ecb4a7c64d38a3b0dc99ebc58db0",
+        "type": "D"
+    },
+    "fb675ecb4f6b40aa8f0227aae9c7806e": {
+        "extension": "js",
+        "kuid": "fb675ecb4f6b40aa8f0227aae9c7806e",
+        "name": "automationStartup.js",
+        "parent": "i31212f32fd6413aad95c5ffe99389a1",
+        "type": "F"
+    },
+    "i31212f32fd6413aad95c5ffe99389a1": {
+        "children": [
+            "fb675ecb4f6b40aa8f0227aae9c7806e"
+        ],
+        "kuid": "i31212f32fd6413aad95c5ffe99389a1",
+        "name": "Tablet",
+        "parent": "d304f833fb2d4998b4823e20d96a8074",
+        "type": "D"
+    },
+    "i637aab9606740f1afbd783529cd87c4": {
+        "extension": "js",
+        "kuid": "i637aab9606740f1afbd783529cd87c4",
+        "name": "automationStartup.js",
+        "parent": "a7f060713ca64533bc73955dce91264d",
+        "type": "F"
+    }
+}

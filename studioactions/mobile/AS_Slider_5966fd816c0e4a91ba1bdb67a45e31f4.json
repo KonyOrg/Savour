@@ -1,0 +1,26 @@
+{
+    "AS_Slider_5966fd816c0e4a91ba1bdb67a45e31f4": {
+        "id": "AS_Slider_5966fd816c0e4a91ba1bdb67a45e31f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "1c92ea913c4d4ed482f4512dfbc68156"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3de4c376933f4283989b45db4008f62d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.setSelectedRangeValue ();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

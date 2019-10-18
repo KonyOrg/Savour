@@ -1,0 +1,29 @@
+{
+    "AS_Image_5ff4cecea01d42d1a97e106481e2fad7": {
+        "id": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "masterHdr",
+            "type": "masters",
+            "KUID": "9d67cdf812f0458fbe92b56d5445ea60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d4bc1b05fe5042219b5a5ffe70f87d29",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var currentFormID = this.getCurrentForm();\nif(\"frmHotelDetails\" === currentFormID) {\n  var navigateToFrmHotelList = new kony.mvc.Navigation(\"frmHotelList\");\n  navigateToFrmHotelList.navigate(null);  \n} else if (\"frmHotelList\" === currentFormID) {\n  var navigateToFrmHome = new kony.mvc.Navigation(\"frmHome\");\n  navigateToFrmHome.navigate();    \n}\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

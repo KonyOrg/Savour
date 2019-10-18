@@ -1,0 +1,23 @@
+{
+    "AS_Form_e7440b0e8658425bb88b3ea6655ff04c": {
+        "id": "AS_Form_e7440b0e8658425bb88b3ea6655ff04c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "1c92ea913c4d4ed482f4512dfbc68156"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__32cd8378e8bb4f688d0c7e6eb8227ffc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.isOnShakeEventHandlerInProgress = false;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

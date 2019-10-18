@@ -1,0 +1,52 @@
+{
+    "AS_Image_e74a8862ebe8433593ea45d43b8e5666": {
+        "id": "AS_Image_e74a8862ebe8433593ea45d43b8e5666",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHotelList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h6dae656e01f4383b26bbab18abffff2"
+        },
+        "sourceObj": {
+            "itemKUID": "9d67cdf812f0458fbe92b56d5445ea60",
+            "widgetKUID": "fcb41b0ca78847ce996f50c14ecd6fc7",
+            "evt": "onTouchEnd",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____eb99dc1b73c14e1186c9f7542ac09e2c",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+            "display": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }, {
+                "datatype": "string",
+                "name": "x",
+                "value": "x"
+            }, {
+                "datatype": "string",
+                "name": "y",
+                "value": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

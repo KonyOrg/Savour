@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb59889e9533424ea8f1cd1a11ccc390",
+    "_top_": {
+        "type": "string",
+        "value": "275dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "lblName",
+        "lblAddress",
+        "lblRating"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexSegHotelListRow",
+    "info": null,
+    "isvisible": true,
+    "kuid": "jb81bfefd6cd4a4480df1bb0e93827df",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmHotelDetails",
+    "pf": "frmHotelDetails",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

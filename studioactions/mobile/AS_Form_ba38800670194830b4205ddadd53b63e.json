@@ -1,0 +1,23 @@
+{
+    "AS_Form_ba38800670194830b4205ddadd53b63e": {
+        "id": "AS_Form_ba38800670194830b4205ddadd53b63e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "1c92ea913c4d4ed482f4512dfbc68156"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__11c1dbf6194048428b22970ae4684883",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.accelerometer.registerAccelerationEvents ({shake:this.onShake.bind(this)});",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

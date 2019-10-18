@@ -1,0 +1,53 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb59889e9533424ea8f1cd1a11ccc390",
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "lblName",
+        "lblAddress",
+        "lblRating"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flexSegHotelListRow1Controller"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flexSegHotelListRow1",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "afcbc698414c4acfb57a302d797655a0",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "tplSegHotelListRow",
+    "pf": "tplSegHotelListRow",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

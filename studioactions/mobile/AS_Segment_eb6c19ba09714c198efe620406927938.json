@@ -1,0 +1,23 @@
+{
+    "AS_Segment_eb6c19ba09714c198efe620406927938": {
+        "id": "AS_Segment_eb6c19ba09714c198efe620406927938",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onRowClick_j5b10953920d4605b1b47d2c9e4aeaf7",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navigateToFrmHotelDetails = new kony.mvc.Navigation(\"frmHotelDetails\");\nnavigateToFrmHotelDetails.navigate(this.view.segHotelsList.selectedRowItems);\n",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "AS_Image_b50f9e3b89754184af60f5fd68584a13": {
+        "id": "AS_Image_b50f9e3b89754184af60f5fd68584a13",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j84c5bdb723c43aba6f1d24cd122fb24"
+        },
+        "sourceObj": {
+            "itemKUID": "9d67cdf812f0458fbe92b56d5445ea60",
+            "widgetKUID": "fcb41b0ca78847ce996f50c14ecd6fc7",
+            "evt": "onTouchEnd",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____h608ea8a24b047e0aad210f69fa7bb7d",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+            "display": "AS_Image_5ff4cecea01d42d1a97e106481e2fad7",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }, {
+                "datatype": "string",
+                "name": "x",
+                "value": "x"
+            }, {
+                "datatype": "string",
+                "name": "y",
+                "value": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

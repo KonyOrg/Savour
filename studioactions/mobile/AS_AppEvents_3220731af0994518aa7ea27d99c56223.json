@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_3220731af0994518aa7ea27d99c56223": {
+        "id": "AS_AppEvents_3220731af0994518aa7ea27d99c56223",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ec89b7116a1a49f5bef603d767c87ac2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.setApplicationBehaviors ({\"hideDefaultLoadingIndicator\":true});",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-70dp"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5f109df3415479fa165136362858215",
+    "_srcKuid_": "1006bb739b7041288d700585ea9f574c",
+    "_width_": {
+        "type": "string",
+        "value": "115dp"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgNitro"
+    },
+    "id": "imgNitro",
+    "instanceOf": "1006bb739b7041288d700585ea9f574c",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m279ac67ee73479e86796fb5e5a96b49",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexFtr",
+    "pf": "frmHome",
+    "topLevelInstanceKUID": "mc31829699bf47b5b22d80e5444212ed",
+    "wType": "Image"
+}

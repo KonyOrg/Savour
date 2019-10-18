@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_8e22b8a33d3542d9803231d7a6b56b75": {
+        "id": "AS_FlexContainer_8e22b8a33d3542d9803231d7a6b56b75",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHdr",
+            "type": "masters",
+            "KUID": "9d67cdf812f0458fbe92b56d5445ea60"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__dad416acd45b4ac19bacafa36157e6ed",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//alert (JSON.stringify(kony.application.getCurrentForm()));",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

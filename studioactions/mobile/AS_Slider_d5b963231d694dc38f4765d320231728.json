@@ -1,0 +1,20 @@
+{
+    "AS_Slider_d5b963231d694dc38f4765d320231728": {
+        "id": "AS_Slider_d5b963231d694dc38f4765d320231728",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onSelection_i101bc3595d84d0eaa7693ac0e358bce",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.isOnShakeEventHandlerInProgress = false;\n",
+            "callbackType": null
+        }]
+    }
+}

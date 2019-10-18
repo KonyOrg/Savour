@@ -1,0 +1,35 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7b1dbabc6094735a3dac21b15ad5be2",
+    "_srcKuid_": "m1080ca463e84a58b56ce0a072a742f0",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "imgPowredBy",
+        "imgNitro"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "flexFtr"
+    },
+    "id": "flexFtr",
+    "instanceOf": "m1080ca463e84a58b56ce0a072a742f0",
+    "isTopFlexInstance": true,
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m8f15897f2214522a002d452f02d1db1",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmHotelDetails",
+    "pf": "frmHotelDetails",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

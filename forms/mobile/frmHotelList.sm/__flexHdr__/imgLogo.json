@@ -1,0 +1,28 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5f109df3415479fa165136362858215",
+    "_srcKuid_": "810e83b5389b405b841ff1617406bc73",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgLogo"
+    },
+    "id": "imgLogo",
+    "instanceOf": "810e83b5389b405b841ff1617406bc73",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m7274b9da84f4d66a2c36eb7ebf7ffad",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexHdr",
+    "pf": "frmHotelList",
+    "topLevelInstanceKUID": "m366f39c296d45149acb557b403a76bd",
+    "wType": "Image"
+}

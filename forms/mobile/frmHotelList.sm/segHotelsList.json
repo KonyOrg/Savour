@@ -1,0 +1,146 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Plot No. 2, No. 64,, 208, Survey, Kavuri Hills Phase 1, Parvathi Nagar, Madhapur, Hyderabad"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lemon Tree Premier"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rating: 4.3"
+            }
+        },
+        {
+            "lblAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Plot No. 2, No. 64,, 208, Survey, Kavuri Hills Phase 1, Parvathi Nagar, Madhapur, Hyderabad"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lemon Tree Premier"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rating: 4.3"
+            }
+        },
+        {
+            "lblAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Plot No. 2, No. 64,, 208, Survey, Kavuri Hills Phase 1, Parvathi Nagar, Madhapur, Hyderabad"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Lemon Tree Premier"
+            },
+            "lblRating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rating: 4.3"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "51dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {
+        "rowFocusSkin": "s5388b95e3584af682ebec94dab33a92",
+        "rowSkin": "se3f25368dce405d9d7b5b02327e6efc"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b67886dd89c241ddbaf1999c6db8beaa",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segHotelsList",
+    "ide_onRowClick": "AS_Segment_eb6c19ba09714c198efe620406927938",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ge1f9d81ac0a4857b3727f2ba198a6c6",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmHotelList",
+    "pf": "frmHotelList",
+    "retainselection": false,
+    "rowTemplateId": "b67886dd89c241ddbaf1999c6db8beaa",
+    "rowcounter": 2,
+    "rowtemplate": "CopyFBox0gd92550ce5694a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s2ad2b808a89438b9a6bb148715a882f",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flexSegHotelListRow": "flexSegHotelListRow",
+        "lblAddress": "lblAddress",
+        "lblName": "lblName",
+        "lblRating": "lblRating"
+    },
+    "zindex": 1
+}

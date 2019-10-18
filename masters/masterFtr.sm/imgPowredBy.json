@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5f109df3415479fa165136362858215",
+    "_src_": "powredby.png",
+    "_width_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mde2eb6c336348a58deadac08b524d64",
+        "mecc2ac8e7e443c0b69ac13941327553",
+        "m98570f0b57c45db8a5a39814b98ee11"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterFtr",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgPowredBy",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "7e3b3eee8f284881a5c0e12730dce1b1",
+    "name": "kony.ui.Image2",
+    "parent": "flexFtr",
+    "pf": "masterFtr",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

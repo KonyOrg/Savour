@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_ad5adf2c4e224e2fb059a8b694cb1c4f": {
+        "id": "AS_AppEvents_ad5adf2c4e224e2fb059a8b694cb1c4f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__724060825a4e414d921e173ede0b5af5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.accelerometer.registerAccelerationEvents ({\"shake\":onshake});",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

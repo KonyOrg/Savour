@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_c33ed1326e084d9e9f98d04c07ab4111": {
+        "id": "AS_FlexContainer_c33ed1326e084d9e9f98d04c07ab4111",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "c91b1dade16e44f5abf33188b9165a0e"
+        },
+        "sourceObj": {
+            "itemKUID": "9d67cdf812f0458fbe92b56d5445ea60",
+            "widgetKUID": "m2541edd22b9471f84ba22912fa4d633",
+            "evt": "preShow",
+            "platform": null
+        },
+        "language": "js",
+        "actions": []
+    }
+}

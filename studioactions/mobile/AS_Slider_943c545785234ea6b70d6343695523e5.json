@@ -1,0 +1,26 @@
+{
+    "AS_Slider_943c545785234ea6b70d6343695523e5": {
+        "id": "AS_Slider_943c545785234ea6b70d6343695523e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "selectedvalue"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "1c92ea913c4d4ed482f4512dfbc68156"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5ca738b99cdc49bca10a858ac7d37dfd",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.isOnShakeEventHandlerInProgress = false;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
